@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/web-projects/static/css/main.11fbeff3.chunk.css",
+    "main.js": "/web-projects/static/js/main.3e5c994a.chunk.js",
+    "main.js.map": "/web-projects/static/js/main.3e5c994a.chunk.js.map",
+    "runtime-main.js": "/web-projects/static/js/runtime-main.6d1d737f.js",
+    "runtime-main.js.map": "/web-projects/static/js/runtime-main.6d1d737f.js.map",
+    "static/css/2.081f420c.chunk.css": "/web-projects/static/css/2.081f420c.chunk.css",
+    "static/js/2.cc570dbe.chunk.js": "/web-projects/static/js/2.cc570dbe.chunk.js",
+    "static/js/2.cc570dbe.chunk.js.map": "/web-projects/static/js/2.cc570dbe.chunk.js.map",
+    "static/js/3.34c2c600.chunk.js": "/web-projects/static/js/3.34c2c600.chunk.js",
+    "static/js/3.34c2c600.chunk.js.map": "/web-projects/static/js/3.34c2c600.chunk.js.map",
+    "index.html": "/web-projects/index.html",
+    "static/css/2.081f420c.chunk.css.map": "/web-projects/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.11fbeff3.chunk.css.map": "/web-projects/static/css/main.11fbeff3.chunk.css.map",
+    "static/js/2.cc570dbe.chunk.js.LICENSE.txt": "/web-projects/static/js/2.cc570dbe.chunk.js.LICENSE.txt",
+    "static/media/Tic-Tac-Toe.png": "/web-projects/static/media/Tic-Tac-Toe.bfb36823.png",
+    "static/media/To-do-list.png": "/web-projects/static/media/To-do-list.0c3012dd.png",
+    "static/media/article-preview.png": "/web-projects/static/media/article-preview.08958267.png",
+    "static/media/calculator.png": "/web-projects/static/media/calculator.a0c290ca.png",
+    "static/media/home.png": "/web-projects/static/media/home.ae5764fd.png",
+    "static/media/logo.6ce24c58.svg": "/web-projects/static/media/logo.6ce24c58.svg",
+    "static/media/news-feed.png": "/web-projects/static/media/news-feed.937c8b88.png",
+    "static/media/pomofocus-clone.png": "/web-projects/static/media/pomofocus-clone.f23c5b28.png",
+    "static/media/portfolio.png": "/web-projects/static/media/portfolio.b060759b.png",
+    "static/media/qr-code-generator.png": "/web-projects/static/media/qr-code-generator.e5c725f1.png",
+    "static/media/whatsapp-clone.png": "/web-projects/static/media/whatsapp-clone.ee559337.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d1d737f.js",
+    "static/css/2.081f420c.chunk.css",
+    "static/js/2.cc570dbe.chunk.js",
+    "static/css/main.11fbeff3.chunk.css",
+    "static/js/main.3e5c994a.chunk.js"
+  ]
+}
